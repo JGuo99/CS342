@@ -1,2 +1,2 @@
-# CS342
+# Software Design
 CS 342: Software Design
